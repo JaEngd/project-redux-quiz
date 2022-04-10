@@ -1,12 +1,12 @@
 import styled from "styled-components";
 
-const Div = styled.div`
+export const Div = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
 `;
 
-const Flex = styled.div`
+export const Flex = styled.div`
   background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
@@ -14,7 +14,7 @@ const Flex = styled.div`
   background-size: cover;
 `;
 
-const Button = styled.button`
+export const Button = styled.button`
   padding: 10px;
   border: none;
   border-radius: 20px;
