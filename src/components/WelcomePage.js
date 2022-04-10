@@ -6,7 +6,7 @@ import {
   WelcomeContent,
   WelcomeTitle,
   WelcomeBtn
-} from "WelcomeStyles";
+} from "Styles";
 
 export const WelcomePage = () => {
   return (
